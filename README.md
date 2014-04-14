@@ -1,4 +1,4 @@
 lookahead.github.io
 ===================
 
-LOOKAHEAD SOFTWARE
+LOOKAHEAD
